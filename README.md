@@ -4,10 +4,10 @@ Configuring a Cloud FTP server using AWS EC2 and CrushFTP
 # Como fazer...
 
 - Iniciar uma instancia com amazon linux
-Configurações mínimas para a máquina
-Máquina t2.micro
-- 1GB Memoria
-- 1 vCPU (2.5GHz)
+   - Configurações mínimas para a máquina:
+      Máquina t2.micro;
+      1GB Memoria
+      1 vCPU (2.5GHz)
 
 - Fazer login como root
 ```shell
